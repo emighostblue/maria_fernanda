@@ -1,0 +1,28 @@
+.boton{
+    color: white;
+    background-color: #A499FF;
+    display: inline-block;
+    padding: 15px;
+    text-decoration: none;
+}
+.boton:hover{
+    background-color: #99FFD7;
+    cursor: pointer;
+}
+.fondo{
+    background-color: #FF99C1;
+}
+.titulo{
+    color: #F4FF99;
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: white;
+}
+table{
+    background-color: #FFD799;
+}
+th{
+    color: white;
+}
